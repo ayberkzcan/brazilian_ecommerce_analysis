@@ -15,7 +15,7 @@ The main goals of this project are:
 By combining SQL queries and Python visualizations, this project illustrates how **raw e-commerce data can be transformed into actionable business insights** from start to finish.
 
 ## Insights & Findings
-- **Top Categories:** Beauty & Health products are the highest revenue-generating category, suggesting focus areas for marketing and inventory planning.  
+- **Top 10 Categories:** Beauty & Health products are the highest revenue-generating category, suggesting focus areas for marketing and inventory planning.  
 - **VIP Customers:** The top 10% of customers contribute a significant portion of total revenue, highlighting the importance of customer loyalty.  
 - **Monthly Trends:** Certain categories peak during specific months (e.g., Furniture & Decor in October), showing opportunities for seasonal campaigns.  
 - **Payment Methods:** Credit cards dominate in both usage and revenue, suggesting prioritization for payment optimization.  
@@ -27,6 +27,9 @@ By combining SQL queries and Python visualizations, this project illustrates how
 3. **SQL Analysis:** Execute aggregation queries and JOINs to summarize sales, customers, payments, and orders.  
 4. **Python Analysis:** Visualize results using **Matplotlib** and **Seaborn**, highlighting trends, top categories, VIP customers, and order/payment patterns.  
 5. **Insight Extraction:** Translate the visualizations into **actionable business insights**, demonstrating a full end-to-end analysis workflow.
+
+## Additional Visualizations
+Additional tables and visualizations can be found in the `graphs and tables` branch of this repository.
 
 ## Requirements
 - Python 3.x  
